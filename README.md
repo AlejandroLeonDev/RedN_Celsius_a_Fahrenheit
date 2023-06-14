@@ -27,9 +27,6 @@ Este proyecto es un conversor de grados Celsius a Fahrenheit implementado en Jav
 
 5. Mueve la barra deslizadora de grados Celsius y se mostrará la predicción en grados Fahrenheit.
 
-## Demo
-
-Puedes ver una demostración en vivo del proyecto [aquí](https://example.com).
 
 ## Autor
 
