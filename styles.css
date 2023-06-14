@@ -1,0 +1,70 @@
+/* Estilos para el cuerpo del documento */
+body {
+    font-family: Arial, sans-serif; /* Establece la fuente de texto para el cuerpo del documento */
+    background-color: #f8f8f8; /* Establece el color de fondo */
+    color: #333; /* Establece el color del texto */
+  }
+  
+  /* Estilos para el encabezado */
+  header {
+    text-align: center; /* Centra el contenido del encabezado */
+    padding: 20px; /* Añade espacio interno alrededor del encabezado */
+    background-color: #fff; /* Establece el color de fondo */
+    border-bottom: 1px solid #ccc; /* Añade una línea inferior */
+  }
+  
+  header img {
+    display: block; /* Hace que la imagen sea un bloque para centrarla */
+    margin: 0 auto; /* Centra horizontalmente la imagen */
+    max-width: 200px; /* Establece el ancho máximo de la imagen */
+    height: auto; /* Permite que la altura se ajuste automáticamente */
+    border-radius: 50%; /* Aplica esquinas redondeadas a la imagen */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Agrega una sombra alrededor de la imagen */
+    transition: transform 0.3s ease; /* Agrega una transición suave */
+  }
+  
+  header img:hover {
+    transform: rotate(360deg); /* Gira la imagen al pasar el cursor sobre ella */
+  }
+  
+  header h1 {
+    font-size: 24px; /* Establece el tamaño de fuente del título */
+    font-weight: bold; /* Establece la negrita del título */
+    margin-top: 10px; /* Añade margen superior al título */
+    text-shadow: 2px 2px 3px rgba(70, 2, 255, 0.1); /* Agrega una sombra al texto del título */
+  }
+  
+  header p {
+    font-size: 16px; /* Establece el tamaño de fuente del párrafo */
+    margin-top: 10px; /* Añade margen superior al párrafo */
+  }
+  
+  /* Estilos para el formulario */
+  form {
+    background-color: #fff; /* Establece el color de fondo del formulario */
+    padding: 20px; /* Añade espacio interno alrededor del formulario */
+    border-radius: 5px; /* Aplica esquinas redondeadas al formulario */
+    box-shadow: 0 2px 5px rgba(89, 0, 255, 0.1); /* Agrega una sombra alrededor del formulario */
+    transition: transform 0.3s ease; /* Agrega una transición suave */
+  }
+  
+  form:hover {
+    transform: translateY(-5px); /* Desplaza el formulario hacia arriba al pasar el cursor sobre él */
+  }
+  
+  .form-group {
+    margin-bottom: 20px; /* Añade margen inferior al grupo de formularios */
+  }
+  
+  .form-label {
+    font-weight: bold; /* Establece la negrita del etiqueta del formulario */
+  }
+  
+  .form-range {
+    width: 100%; /* Establece el ancho del control deslizante al 100% del contenedor */
+  }
+  
+  .form-text {
+    font-size: 14px; /* Establece el tamaño de fuente del texto del formulario */
+    color:
+    
